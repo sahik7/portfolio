@@ -7,25 +7,25 @@ const Navbar = () => {
       <div className="w-11/12 flex items-center justify-between mx-auto">
         <div>
           <Link to="/" className="text-xl font-bold">
-            Your Name
+            Sahik Mueeb Ahsan
           </Link>
         </div>
         <div>
           <ul className="flex space-x-4">
             <li>
-              <Link to="/">Home</Link>
+              <a href="/">Home</a>
             </li>
             <li>
-              <Link to="#projects">Projects</Link>
+              <a href="#projects">Projects</a>
             </li>
             <li>
-              <Link to="#skills">Skills</Link>
+              <a href="#skills">Skills</a>
             </li>
             <li>
-              <Link to="#about">About Me</Link>
+              <a href="#about">About Me</a>
             </li>
             <li>
-              <Link to="#contact">Contact Us</Link>
+              <a href="#contact">Contact Us</a>
             </li>
           </ul>
         </div>
