@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.out-stroke{
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke:1px #f1491c;
+}
