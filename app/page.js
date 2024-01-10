@@ -4,7 +4,7 @@ import Layout from './components/Layout'
 import About_Me from './sections/About_Me'
 import Technologies from './sections/Technologies'
 import Contact_Me from './sections/Contact_Me'
-import Projects from './sections/Projects'
+import { Projects } from './sections/Projects'
 
 export default function Home() {
   return (

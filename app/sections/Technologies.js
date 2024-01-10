@@ -22,7 +22,7 @@ export default function Technologies() {
             <h1 className="font-poppins font-bold out-stroke lg:ml-6 lg:text-8xl text-5xl text-center lg:text-left">Technologies</h1>
             <div className="w-8/12 mx-auto">
                 <h2 className="lg:my-28 my-10 uppercase font-poppins lg:text-4xl text-2xl font-bold">Front end</h2>
-                <div className="lg:gap-x-44 gap-x-20 grid lg:grid-cols-4 grid-cols-2  lg:gap-y-32 gap-y-10">
+                <div className="lg:gap-x-44 gap-x-20 grid lg:grid-cols-4 md:grid-cols-3 md:gap-x-48 grid-cols-2  lg:gap-y-32 gap-y-10">
                     <Image src={CSSLogo} alt="css-logo" />
                     <Image src={TypescriptLogo} alt="typescript-logo" />
                     <Image src={ReduxLogo} alt="redux-logo" />
@@ -34,8 +34,8 @@ export default function Technologies() {
                 </div>
             </div>
             <div className="w-8/12 mx-auto">
-                <h2 className="lg:my-28 my-10 uppercase font-poppins lg:text-4xl text-2xl font-bold">Back end</h2>
-                <div className="lg:gap-x-44 gap-x-20 grid lg:grid-cols-4 grid-cols-2  lg:gap-y-32 gap-y-10">
+                <h2 className="lg:my-28 my-10 uppercase font-poppins  lg:text-4xl text-2xl font-bold">Back end</h2>
+                <div className="lg:gap-x-44 gap-x-20 grid lg:grid-cols-4 grid-cols-2  md:grid-cols-3 md:gap-x-48  lg:gap-y-32 gap-y-10">
                     <Image src={ExpressLogo} alt="express-logo" />
                     <Image src={DockerLogo} alt="docker-logo" />
                     <Image src={MongoDbLogo} alt="mongodb-logo" />

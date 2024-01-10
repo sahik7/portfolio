@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Vehicle Funland",
+        "type": "Single Page Application",
+        "techs": ["React Js","Express", "JavaScript","MongoDB","Firebase"],
+        "img1":"/funland-Img-1.jpg",
+        "img2":"/funland-Img-2.jpg",
+        "img3":"/funland-Img-3.jpg"
+    },
+    {
+        "title": "Recipe Fusion",
+        "type": "Single Page Application",
+        "techs": ["React Js","Tailwind", "JavaScript","HTML","Firebase"],
+        "img1":"/recipe1.png",
+        "img2":"/recipe2.png",
+        "img3":"/recipe3.png"
+    },
+    {
+        "title": "Melodious Academy of Music",
+        "type": "Single Page Application",
+        "techs": ["React Js","Express", "JavaScript","MongoDB","Stripe","Firebase"],
+        "img1":"/melodious1.png",
+        "img2":"/melodious2.png",
+        "img3":"/melodious3.png"
+    }
+]
